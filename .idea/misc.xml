@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-task-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-parent/pinyougou-user-web" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pinyougou-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-order-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-page-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-page-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-page-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-pay-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-search-interfaace/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-seckill-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-seckill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-seckill-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-solr-util/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-task-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/pinyougou-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/sms_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/SpringDataRedisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/freemarkerDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/jmsDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/springjms-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/spring-DataSolr-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-parent/springjms-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
