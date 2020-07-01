@@ -40,9 +40,6 @@ public class SmsUtil {
     @Autowired
     private Environment env;
 
-//    static final String accessKeyId = "LTAIm40gsMqCN4Dz";
-//    static final String accessKeySecret = "KhWSKsysIOFw4CbBSAaiviUX6YRzpn";
-
     public SendSmsResponse sendSms(String mobile,String template_code,String sign_name,String param) throws ClientException {
         String accessKeyId = env.getProperty("accessKeyId");
         String accessKeySecret = env.getProperty("accessKeySecret");
